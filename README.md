@@ -2,5 +2,5 @@
 
 - Search recipes of over 200+ international dishes
 - Add your recipe to the receipe database
-
-Built with HTML, SCSS and Javascript
+- Built with HTML, SCSS and Javascript
+- check live project @ https://furkify.netlify.app/
